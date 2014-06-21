@@ -1,0 +1,19 @@
+{
+  "name": "brph-mean-auth-client",
+  "version": "0.1.0",
+  "description": "An auth solution for the MEAN stack (frontend/angular component)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bericp1/brph-mean-auth-client.git"
+  },
+  "author": "Brandon Phillips <bericp1@gmail.com> (http://brandonep.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bericp1/brph-mean-auth-client/issues"
+  },
+  "homepage": "https://github.com/bericp1/brph-mean-auth-client"
+}
